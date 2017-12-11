@@ -19,3 +19,12 @@ function v(val) {
 		 d("Error");
 	 }
  }
+ 
+ //save to memory and get the memory
+ function mp(d) {
+	 var m = Number(d);
+ }
+ 
+ function mm() {
+	 v(m);
+ }
