@@ -48,20 +48,20 @@
 	border-top: 2px solid transparent;
 }
 .button.function {
-	color: white;
-	background-color: #C64F81;
+	color: black;
+	background-color: #14FF00;
 	border-bottom: black 2px solid;
 	border-top: 2px #6F6F6F
 }
 .button.operator {
-	color: white;
-	background-color: #4d5966;
+	color: black;
+	background-color: #FF6400;
 	border-bottom: black 2px solid;
 	border-top: 2px #6f6f6f solid;
 }
 .button.number {
-	color: white;
-	background-color: #7091ab;
+	color: black;
+	background-color: #00FEFF;
 	border-bottom: black 2px solid;
 	border-top: 2px #6f6f6f solid;
 }
